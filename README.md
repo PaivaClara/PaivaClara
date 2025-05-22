@@ -1,17 +1,16 @@
 # 👋 Hola, soy Clara Paiva (@PaivaClara)
 
-✨ QA Tester | Formadora en Tecnología | Exploradora del Backend
+✨ QA Tester | Formadora en Tecnología |
 
 🧪 Actualmente trabajo como QA en proyectos que involucran pruebas exploratorias, de regresión, automatizadas y validación de documentación.  
-🎓 Formo parte de espacios educativos como tutora en cursos de Testing QA.  
+🎓 Formo parte de espacios educativos como docente de Testing QA.  
 🌐 Estoy desarrollando sitios de ejemplo para capacitaciones técnicas y webinars.  
-💡 Estoy incursionando en el backend con Python y JavaScript.
 
 ## 💼 Intereses
 
 - Control de calidad en aplicaciones web, APIs y productos en fase beta
 - Accesibilidad, usabilidad y buenas prácticas de documentación
-- Automatización de pruebas con herramientas como Cypress y Selenium
+- Automatización de pruebas con herramientas como Postman Cypress y Selenium
 - Educación tecnológica y enfoque pedagógico en Testing
 
 ## 🤝 Actualmente abierta a colaborar en:
