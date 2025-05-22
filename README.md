@@ -1,6 +1,6 @@
 # 👋 Hola, soy Clara Paiva (@PaivaClara)
 
-✨ QA Tester | Formadora en Tecnología |
+✨ QA Tester | Formadora en Tecnología | Lic. en sistemas de informacion | Analista en ciencias de datos UNLU
 
 🧪 Actualmente trabajo como QA en proyectos que involucran pruebas exploratorias, de regresión, automatizadas y validación de documentación.  
 🎓 Formo parte de espacios educativos como docente de Testing QA.  
